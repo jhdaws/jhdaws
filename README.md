@@ -9,7 +9,7 @@ Right now, I’m building out my personal portfolio to showcase the projects, re
 
 ## 🔬 What I’m Working On
 - **Biomedical AI Research (UCLA)**: Developing ML models (LSTM, BERT, statistical baselines) on large-scale **Fitbit time-series health data** to forecast heart failure hospitalizations.  
-- **Research with Dr. Kevin Leach (Vanderbilt)**: Investigating mislabeled and duplicate training data in **NLP and Computer Vision**, and building tools for data integrity + interpretability.  
+- **Research at Vanderbilt**: Investigating mislabeled and duplicate training data in **NLP and Computer Vision**, and building tools for data integrity + interpretability. Starting a new project working with eye tracking glasses in real time. 
 - **Change++**: Full-stack dev on a **React Native mobile app** for a non-profit providing education in Central America. Features include offline-first data entry and secure SQL schemas.  
 - **Side Projects**:  
   - A **poker app** that uses computer vision to scan and count poker chips, integrated with payment APIs.  
