@@ -1,7 +1,7 @@
 # 🚧 Portfolio — Work in Progress 🚧
 
 Hi, I’m **Jack Dawson** 👋  
-I’m a sophomore at **Vanderbilt University**, pursuing dual B.S. degrees in **Computer Science** and **Mathematics** with a minor in **Data Science**.  
+I’m a junior at **Vanderbilt University**, pursuing dual B.S. degrees in **Computer Science** and **Mathematics** with a minor in **Data Science**.  
 
 Right now, I’m building out my personal portfolio to showcase the projects, research, and side work I’ve been working on. Until then, here’s a bit about me:
 
